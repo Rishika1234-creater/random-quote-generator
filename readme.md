@@ -21,5 +21,5 @@ A simple and aesthetic **Random Quote Generator** made using
 Just open the `index.html` file in your browser.
 
 ## Author
-Rishika Sinha 
+##Rishika Sinha
 Made with html css and JavaScript.

@@ -20,6 +20,6 @@ A simple and aesthetic **Random Quote Generator** made using
 ## How to Run
 Just open the `index.html` file in your browser.
 
-## Author
-##Rishika Sinha
+##  Author
+**Rishika Sinha**  
 Made with html css and JavaScript.
